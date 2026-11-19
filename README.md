@@ -5,24 +5,21 @@ This repository contains my BCA-C-Programming assignments and Leetcode solutions
 -Strings
 -Pointers
 -Algorithms
+-Functions
+-Recursion
 ## PROBLEMS SOLVED
-1. Two Sum
-2. Contains Duplicate
-3. Factorial of a number
-4. Prime number
-5. Palindrome
-6. Sum of two numbers
-7. Swapping of two numbers
-8. Sum of natural numbers
-9. Count vowels
-10. Reverse a string
+1. Factorial of a number
+2. Sum of digits of a number
+3. Array contains duplicate
+4. Count even and odd numbers
+5. Palindrome of a number
+6. Prime Numbers
+7. Sum using Pointers
+8. Swapping of two numbers
+9. Sum of natural numbers using recursion
+10. Count vowels in a string
 ## LANGUAGE
 C Programming
 ## AUTHOR
 ~ BCA Student
 ~ Name-Sonakshi Gupta
-## Functions
--Prime Number Using Functions
--Fibonacci series using functions
--Palindrome using function
--GCD using functions
