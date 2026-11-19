@@ -10,18 +10,18 @@ This repository contains my BCA-C-Programming assignments and Leetcode solutions
 1. Two Sum
 2. Contains Duplicate
 ~ Based on Algorithm
-3. Factorial of a number
-4. Prime number
+1. Factorial of a number
+2. Prime number
 ~ Based on functions
-5. Palindrome
+1. Palindrome
 ~ Based on pointers
-6. Sum of two numbers
-7. Swapping of two numbers
+1. Sum of two numbers
+2. Swapping of two numbers
 ~ Based on recursion
-8. Sum of natural numbers
+1. Sum of natural numbers
 ~ Based on strings
-9. Count vowels
-10. Reverse a string
+1. Count vowels
+2. Reverse a string
 ## LANGUAGE
 C Programming
 ## AUTHOR
