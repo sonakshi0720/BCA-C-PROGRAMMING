@@ -6,22 +6,16 @@ This repository contains my BCA-C-Programming assignments and Leetcode solutions
 -Pointers
 -Algorithms
 ## PROBLEMS SOLVED
-~ Based on Array
 1. Two Sum
 2. Contains Duplicate
-~ Based on Algorithm
-1. Factorial of a number
-2. Prime number
-~ Based on functions
-1. Palindrome
-~ Based on pointers
-1. Sum of two numbers
-2. Swapping of two numbers
-~ Based on recursion
-1. Sum of natural numbers
-~ Based on strings
-1. Count vowels
-2. Reverse a string
+3. Factorial of a number
+4. Prime number
+5. Palindrome
+6. Sum of two numbers
+7. Swapping of two numbers
+8. Sum of natural numbers
+9. Count vowels
+10. Reverse a string
 ## LANGUAGE
 C Programming
 ## AUTHOR
