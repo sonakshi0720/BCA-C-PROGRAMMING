@@ -21,3 +21,8 @@ C Programming
 ## AUTHOR
 ~ BCA Student
 ~ Name-Sonakshi Gupta
+## Functions
+-Prime Number Using Functions
+-Fibonacci series using functions
+-Palindrome using function
+-GCD using functions
